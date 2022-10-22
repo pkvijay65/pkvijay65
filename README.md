@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prateekvijay65@gmail.com**
 
-- ⚡ Fun fact :**I love documenting as much as I love programming :)**
+- ⚡ Fun fact: **I love documenting as much as I love programming :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
