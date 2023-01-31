@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A part time full stack developer and full time nerd!</h3>
 
-- 🌱 I’m currently learning **Springboot and React!**
+👨‍💻 I’m currently working on my System Design and Development Skills.
 
-- 👯 I’m looking to collaborate on **full stack projects!**
+🤯 I’m currently learning advanced Architectures
 
-- 💬 Ask me about **Data Strucutures and Algorithms**
+🤩 I’m looking to collaborate on Web Development Projects
 
-- 📫 How to reach me **prateekvijay65@gmail.com**
+👨‍🏭 Mechanical Graduate and Software Developer
 
-- ⚡ Fun fact: **I love documenting as much as I love programming :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
