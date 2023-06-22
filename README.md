@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">A part time full stack developer and full time nerd!</h3>
+<h3 align="center">A part time full stack developer and a full time nerd!</h3>
 
-👨‍💻 I’m currently working on my System Design and Development Skills.
+👨‍💻 I’m currently learning low level design (design patterns and all that) and trying to implement my learnings in my side - projects.
 
-🤯 I’m currently learning advanced Architectures
+🤯 I’m a extremely curious guy. I crave for intellectual discussions and love discussing and learning ifs and buts of each technology. 
 
 🤩 I’m looking to collaborate on Web Development Projects
 
-👨‍🏭 I love discussing about products, policy, programming, poems, and puns :)
+👨‍🏭 After work, I mostly read newsletters, build side projects to play and experiment with libraries and frameworks which I couldn't do to avoid messing up my dev setup. 
 
 <a href="https://leetcode.com/prateekvjjpr65/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
